@@ -73,7 +73,7 @@ async def start(e):
    Add Your Funds and Play 
 """
     btns=[
-    [Button.url("🎲 PLAY","https://t.me/UltimateForums")],
+    [Button.url("🎲 PLAY","https://t.me/frmchats")],
     [Button.inline("💰 BALANCE","bal"),Button.inline("🏆 LEADERBOARD","top")],
     [Button.inline("➕ DEPOSIT","dep"),Button.inline("💸 WITHDRAW","wd")]
     ]
